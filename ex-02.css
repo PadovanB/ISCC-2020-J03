@@ -1,0 +1,30 @@
+body
+{
+    text-decoration-color: darkslategrey;
+}
+<head>
+  <style>
+    h1 { color: #FF0000; }
+  </style>
+</head>
+<body>
+  <h1>Title</h1>
+  <p>Some paragraph text.</p>
+</body>
+body
+{
+    background-color: aliceblue;
+}
+
+body
+{
+    color: black
+}
+
+body
+{
+    -moz-background-inline-policy: nasalization-rg;
+}
+
+
+
